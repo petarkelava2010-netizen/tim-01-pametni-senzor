@@ -29,6 +29,7 @@ Otvorite `variants/pogreska-prag/index.html`. Ona namjerno koristi prag 35 umjes
 - [Dnevnik rada](docs/DNEVNIK_RADA.md)
 - [Dnevnik odluka](docs/DNEVNIK_ODLUKA.md)
 - [Zapisnici](docs/ZAPISNICI.md)
+  izmjena 
 - [Suradnja](docs/SURADNJA.md)
 
 ![Kontekst aplikacije](docs/slike/sustav.png)
